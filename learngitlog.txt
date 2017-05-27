@@ -1,2 +1,3 @@
 I will learn git well.
 So do I.
+This is master.
